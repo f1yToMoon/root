@@ -1,3 +1,4 @@
+[![Coverage Status](https://coveralls.io/repos/github/f1yToMoon/root/badge.svg?branch=main)](https://coveralls.io/github/f1yToMoon/root?branch=main)
 # Run root
 You can start a container by running the following command in your terminal which will start the latest stable release of ROOT:
 
