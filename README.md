@@ -20,3 +20,5 @@ You can start a container by running the following command in your terminal whic
    
   >.x [MACROS.C]("arguments")
    
+### For more details
+  ![Alt-текст]([https://avatars1.githubusercontent.com/u/5384215?v=3&s=460 "Орк"](https://root.cern/install/))
