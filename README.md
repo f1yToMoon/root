@@ -21,4 +21,4 @@ You can start a container by running the following command in your terminal whic
   >.x [MACROS.C]("arguments")
    
 ### For more details
-  (https://root.cern/install/)
+  https://root.cern/install/
