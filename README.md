@@ -24,3 +24,4 @@ You can start a container by running the following command in your terminal whic
   https://root.cern/install/
 ### Examples
 ![](images/print.png)
+![](images/hist.png)
