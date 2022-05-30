@@ -1,0 +1,15 @@
+==3283== HEAP SUMMARY:
+==3283==     in use at exit: 27 bytes in 1 blocks
+==3283==   total heap usage: 4 allocs, 3 frees, 72,789 bytes allocated
+==3283== 
+==3283== LEAK SUMMARY:
+==3283==    definitely lost: 0 bytes in 0 blocks
+==3283==    indirectly lost: 0 bytes in 0 blocks
+==3283==      possibly lost: 0 bytes in 0 blocks
+==3283==    still reachable: 27 bytes in 1 blocks
+==3283==         suppressed: 0 bytes in 0 blocks
+==3283== Reachable blocks (those to which a pointer was found) are not shown.
+==3283== To see them, rerun with: --leak-check=full --show-leak-kinds=all
+==3283== 
+==3283== For lists of detected and suppressed errors, rerun with: -s
+==3283== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
